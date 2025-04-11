@@ -1,0 +1,30 @@
+# Display settings
+display:
+  visible: 0
+  width: 3840
+  height: 2160
+
+# Browser options
+browser_options:
+  - '--headless'
+  - '--no-sandbox'
+  - '--disable-dev-shm-usage'
+
+# Video IDs to process
+video_ids:
+  - 'QZCGxDcVLBU'
+  - 'OBdO1luAmVw'
+  - 'jrYuqZmrV-4'
+  - 'nlW5b22XgPs'
+  - 'Fw9hgttWzIg'
+  - 'LZSrqZ562Po'
+  - '-VzKL9oeJCI'
+  - '5FNI26lPfgE'
+  - '8gLq1Ss0PQM'
+
+# Wait times (seconds)
+wait_before_click: 5
+wait_after_click: 3
+
+# Screenshot settings
+screenshot_directory: 'screenshots'
