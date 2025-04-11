@@ -123,4 +123,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Created with ❤️ for automating YouTube screenshots
 
 ---
-Answer from Perplexity: pplx.ai/share
